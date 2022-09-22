@@ -36,13 +36,17 @@ body{
 }
 .counter-container p{
     font-size: 18px;
-    color:brown;
+    color:rgb(0, 0, 255);
+    font-weight: bolder;
+    background-color: silver;
     
 }
 .total-counter{
-    color: slateblue;
+    color: rgb(33, 28, 31);
+    font-weight: bolder;
 }
 .remaining-counter{
     color: orangered;
+    font-weight: bold;
 }
 
